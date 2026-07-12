@@ -16,3 +16,9 @@ build
 
 venv
 .venv
+.venv/
+
+
+.qodo/
+alembic.ini
+alembic/
